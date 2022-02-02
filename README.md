@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-/Images/RedTeamNet.png
+https://github.com/Anomander92/ELK-Stack/blob/2a072d1fed6d9c78f361046c2ec74004e0c3b498/Images/RedTeamNet.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the ansible file may be used to install only certain pieces of it, such as Filebeat.
 
